@@ -51,6 +51,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/661
     wikipedia: http://en.wikipedia.org/wiki/Katherine_Prescott_Wormeley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43283#The-Correspondence-of-Madame-Princess-Palatine-Mother-of-the-Regent--of-Marie-Ad-la-de-de-Sav_
 gutenberg_issued: '2013-07-23'
 gutenberg_type: Text
 identifiers:
