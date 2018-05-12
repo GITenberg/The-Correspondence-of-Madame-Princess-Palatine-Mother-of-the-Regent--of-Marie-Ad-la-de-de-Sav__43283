@@ -1,0 +1,70 @@
+_repo: The-Correspondence-of-Madame-Princess-Palatine-Mother-of-the-Regent--of-Marie-Ad-la-de-de-Sav__43283
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Sainte-Beuve, Charles Augustin
+    aliases:
+    - Sainte-Beuve, C.-A. (Charles Augustin)
+    - Delorme, Joseph
+    birthdate: 1804
+    deathdate: 1869
+    gutenberg_agent_id: '5145'
+    url: http://www.gutenberg.org/2009/agents/5145
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Augustin_Sainte-Beuve
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Marie Adelaide, of Savoy, Duchess of Burgundy
+    aliases:
+    - Adélaide, de Savoie, duchesse de Bourgogne
+    - Marie Adélaïde, de Savoie, Duchess of Burgundy, Dauphine of France
+    birthdate: 1685
+    deathdate: 1712
+    gutenberg_agent_id: '42106'
+    url: http://www.gutenberg.org/2009/agents/42106
+  - agent_name: Maintenon, Madame de
+    aliases:
+    - Maintenon, Francoise d'Aubigne, marquise de
+    - Maintenon, Françoise d'Aubigné, marquise de
+    - Cardilhac, Francisca de Aubigné y de
+    - De Maintenon, Madame
+    birthdate: 1635
+    deathdate: 1719
+    gutenberg_agent_id: '42107'
+    url: http://www.gutenberg.org/2009/agents/42107
+  - agent_name: Orléans, Charlotte-Elisabeth, duchesse d'
+    aliases:
+    - Lieselotte, von der Pfalz
+    - Liselotte, la Palatine
+    - Orleans, Charlotte-Elisabeth, duchesse d'
+    birthdate: 1652
+    deathdate: 1722
+    gutenberg_agent_id: '1331'
+    url: http://www.gutenberg.org/2009/agents/1331
+  editor:
+    agent_name: Wormeley, Katharine Prescott
+    birthdate: 1830
+    deathdate: 1908
+    gutenberg_agent_id: '661'
+    url: http://www.gutenberg.org/2009/agents/661
+    wikipedia: http://en.wikipedia.org/wiki/Katherine_Prescott_Wormeley
+description: ''
+gutenberg_issued: '2013-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43283'
+  lccn: '99002374'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Maison royale de Saint-Louis (Saint-Cyr l''École, France)'
+- !lcsh 'France -- Court and courtiers'
+- !lcc 'DC'
+- !lcsh 'French letters'
+title: The Correspondence of Madame, Princess Palatine, Mother of the Regent; of Marie-Adélaïde
+  de Savoie, Duchesse de Bourgogne; and of Madame de Maintenon, in Relation to Saint-Cyr
+url: http://www.gutenberg.org/ebooks/43283
